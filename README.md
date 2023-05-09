@@ -1,2 +1,2 @@
-# HesapMakinasi
- Hesap Makinası
+[# HesapMakinasi
+ Hesap Makinası](https://hesapmakinasi.netlify.app)
